@@ -58,3 +58,6 @@ export SECURE_INGRESS_PORT=$(kubectl -n istio-system get service istio-ingressga
 
 `kubectl get destinationrules -o yaml`
 
+### PPT Available on my twitter
+<a href="https://twitter.com/vishnoitanuj" href="__blank">https://twitter.com/vishnoitanuj</a>
+
