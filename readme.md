@@ -61,3 +61,4 @@ export SECURE_INGRESS_PORT=$(kubectl -n istio-system get service istio-ingressga
 ### PPT Available on my twitter
 <a href="https://twitter.com/vishnoitanuj" href="__blank">https://twitter.com/vishnoitanuj</a>
 
+PPT: <a href="https://www.icloud.com/iclouddrive/0TbJVIM0eyOplU-Cc4AV64p5Q#Istio-demo" href="__blank">Istio Slides</a>
